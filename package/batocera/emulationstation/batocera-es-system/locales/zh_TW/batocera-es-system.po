@@ -14750,210 +14750,145 @@ msgctxt "game_options"
 msgid "TRIPLE BUFFERING"
 msgstr ""
 
-#. TRANSLATION: switch.ryujinx.keys, jaguar.bigpemu.keys, dreamcast.redream.keys, gaelco.demul.keys, hikaru.demul.keys, ...
+#. TRANSLATION: jaguar.bigpemu.keys, cave3rd.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, hikaru.demul.keys, ...
 msgctxt "keys_files"
 msgid "Exit the emulator"
 msgstr "推出模擬器"
-
-#. TRANSLATION: mame.mame.keys, evmapy.keys, scummvm.keys, naomi.flycast.keys, naomi2.flycast.keys, ...
-msgctxt "keys_files"
-msgid "Exit emulator"
-msgstr "退出模擬器"
-
-#. TRANSLATION: dos.dosbox-x.keys
-msgctxt "keys_files"
-msgid "Exit Dosbox-X"
-msgstr ""
 
 #. TRANSLATION: jaguar.bigpemu.keys
 msgctxt "keys_files"
 msgid "Configuration menu"
 msgstr ""
 
-#. TRANSLATION: scummvm.keys
+#. TRANSLATION: wiiu.keys, triforce.dolphin_triforce.keys, naomi2.flycast.keys, atomiswave.flycast.keys, dreamcast.flycast.keys, ...
 msgctxt "keys_files"
-msgid "Menu"
-msgstr "菜單"
+msgid "Exit emulator"
+msgstr "退出模擬器"
 
-#. TRANSLATION: scummvm.keys
+#. TRANSLATION: wiiu.keys
 msgctxt "keys_files"
-msgid "Graphics filtering on/off"
-msgstr "打開/關閉圖像過濾"
+msgid "Display the controller screen"
+msgstr "顯示控制器屏幕"
 
-#. TRANSLATION: scummvm.keys, psx.duckstation.keys, triforce.dolphin_triforce.keys, mame.keys, psp.ppsspp.keys, ...
+#. TRANSLATION: cave3rd.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, hikaru.demul.keys, naomi.demul.keys, ...
 msgctxt "keys_files"
-msgid "Screenshot"
-msgstr "載圖"
+msgid "Start"
+msgstr "開始"
 
-#. TRANSLATION: naomi.flycast.keys, naomi2.flycast.keys, atomiswave.flycast.keys, dreamcast.flycast.keys, dreamcast.redream.keys
+#. TRANSLATION: cave3rd.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, hikaru.demul.keys, naomi.demul.keys, ...
 msgctxt "keys_files"
-msgid "Hide the bezel"
-msgstr "隱藏邊框"
+msgid "Coin"
+msgstr "投幣"
 
-#. TRANSLATION: psx.duckstation.keys
+#. TRANSLATION: cave3rd.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, hikaru.demul.keys, naomi.demul.keys, ...
 msgctxt "keys_files"
-msgid "Exit Duckstation"
-msgstr "退出DuckStation"
+msgid "Push 2"
+msgstr "按下2"
 
-#. TRANSLATION: psx.duckstation.keys, mame.keys, psp.ppsspp.keys, nds.drastic.keys
+#. TRANSLATION: cave3rd.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, hikaru.demul.keys, naomi.demul.keys, ...
 msgctxt "keys_files"
-msgid "Load State"
-msgstr "讀檔"
+msgid "Push 1"
+msgstr "按下1"
 
-#. TRANSLATION: psx.duckstation.keys, mame.keys, psp.ppsspp.keys, nds.drastic.keys
+#. TRANSLATION: cave3rd.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, hikaru.demul.keys, naomi.demul.keys, ...
 msgctxt "keys_files"
-msgid "Save State"
-msgstr "存檔"
+msgid "Push 4"
+msgstr "按下4"
 
-#. TRANSLATION: psx.duckstation.keys
+#. TRANSLATION: cave3rd.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, hikaru.demul.keys, naomi.demul.keys, ...
 msgctxt "keys_files"
-msgid "Open DuckStation Quick Menu"
-msgstr "打開DuckStation快速菜單"
+msgid "Push 3"
+msgstr "按下3"
 
-#. TRANSLATION: psx.duckstation.keys
+#. TRANSLATION: cave3rd.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, hikaru.demul.keys, naomi.demul.keys, ...
 msgctxt "keys_files"
-msgid "Restart Game"
-msgstr "重啟遊戲"
+msgid "Push 5"
+msgstr "按下5"
 
-#. TRANSLATION: psx.duckstation.keys, mame.keys, psp.ppsspp.keys
+#. TRANSLATION: cave3rd.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, hikaru.demul.keys, naomi.demul.keys, ...
 msgctxt "keys_files"
-msgid "Slot -"
-msgstr "存檔位置-"
+msgid "Push 6"
+msgstr "按下6"
 
-#. TRANSLATION: psx.duckstation.keys, mame.keys, psp.ppsspp.keys
+#. TRANSLATION: cave3rd.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, hikaru.demul.keys, naomi.demul.keys, ...
 msgctxt "keys_files"
-msgid "Slot +"
-msgstr "存檔位置+"
+msgid "Push 7"
+msgstr "按下7"
 
-#. TRANSLATION: psx.duckstation.keys, psp.ppsspp.keys
+#. TRANSLATION: cave3rd.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, hikaru.demul.keys, naomi.demul.keys, ...
 msgctxt "keys_files"
-msgid "Rewind"
-msgstr "倒帶"
+msgid "Push 8"
+msgstr "按下8"
 
-#. TRANSLATION: psx.duckstation.keys
+#. TRANSLATION: cave3rd.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, hikaru.demul.keys, naomi.demul.keys, ...
 msgctxt "keys_files"
-msgid "Next Disc (m3u)"
-msgstr "下一個光盤(m3u)"
+msgid "Digital Left"
+msgstr "十字鍵左"
 
-#. TRANSLATION: psx.duckstation.keys, mame.keys, psp.ppsspp.keys
+#. TRANSLATION: cave3rd.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, hikaru.demul.keys, naomi.demul.keys, ...
 msgctxt "keys_files"
-msgid "Fast Forward"
-msgstr "快進"
+msgid "Digital Right"
+msgstr "十字鍵右"
+
+#. TRANSLATION: cave3rd.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, hikaru.demul.keys, naomi.demul.keys, ...
+msgctxt "keys_files"
+msgid "Digital Up"
+msgstr "十字鍵上"
+
+#. TRANSLATION: cave3rd.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, hikaru.demul.keys, naomi.demul.keys, ...
+msgctxt "keys_files"
+msgid "Digital Down"
+msgstr "十字鍵下"
+
+#. TRANSLATION: cave3rd.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, hikaru.demul.keys, naomi.demul.keys, ...
+msgctxt "keys_files"
+msgid "Analog 1 Left"
+msgstr "模擬搖桿1左"
+
+#. TRANSLATION: cave3rd.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, hikaru.demul.keys, naomi.demul.keys, ...
+msgctxt "keys_files"
+msgid "Analog 1 Right"
+msgstr "模擬搖桿1右"
+
+#. TRANSLATION: cave3rd.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, hikaru.demul.keys, naomi.demul.keys, ...
+msgctxt "keys_files"
+msgid "Analog 1 Up"
+msgstr "模擬搖桿1上"
+
+#. TRANSLATION: cave3rd.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, hikaru.demul.keys, naomi.demul.keys, ...
+msgctxt "keys_files"
+msgid "Analog 1 Down"
+msgstr "模擬搖桿1下"
+
+#. TRANSLATION: cave3rd.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, hikaru.demul.keys, naomi.demul.keys, ...
+msgctxt "keys_files"
+msgid "Analog 2 Left"
+msgstr "模擬搖桿2左"
+
+#. TRANSLATION: cave3rd.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, hikaru.demul.keys, naomi.demul.keys, ...
+msgctxt "keys_files"
+msgid "Analog 2 Right"
+msgstr "模擬搖桿2右"
+
+#. TRANSLATION: cave3rd.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, hikaru.demul.keys, naomi.demul.keys, ...
+msgctxt "keys_files"
+msgid "Analog 2 Up"
+msgstr "模擬搖桿2上"
+
+#. TRANSLATION: cave3rd.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, hikaru.demul.keys, naomi.demul.keys, ...
+msgctxt "keys_files"
+msgid "Analog 2 Down"
+msgstr "模擬搖桿2下"
 
 #. TRANSLATION: gaelco.demul.keys, hikaru.demul.keys
 msgctxt "keys_files"
 msgid "Set to full screen"
 msgstr "設置為全屏"
 
-#. TRANSLATION: gaelco.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, naomi2.demul.keys, cave3rd.demul.keys, ...
+#. TRANSLATION: wii.dolphin.keys
 msgctxt "keys_files"
-msgid "Start"
-msgstr "開始"
-
-#. TRANSLATION: gaelco.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, naomi2.demul.keys, cave3rd.demul.keys, ...
-msgctxt "keys_files"
-msgid "Coin"
-msgstr "投幣"
-
-#. TRANSLATION: gaelco.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, naomi2.demul.keys, cave3rd.demul.keys, ...
-msgctxt "keys_files"
-msgid "Push 2"
-msgstr "按下2"
-
-#. TRANSLATION: gaelco.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, naomi2.demul.keys, cave3rd.demul.keys, ...
-msgctxt "keys_files"
-msgid "Push 1"
-msgstr "按下1"
-
-#. TRANSLATION: gaelco.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, naomi2.demul.keys, cave3rd.demul.keys, ...
-msgctxt "keys_files"
-msgid "Push 4"
-msgstr "按下4"
-
-#. TRANSLATION: gaelco.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, naomi2.demul.keys, cave3rd.demul.keys, ...
-msgctxt "keys_files"
-msgid "Push 3"
-msgstr "按下3"
-
-#. TRANSLATION: gaelco.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, naomi2.demul.keys, cave3rd.demul.keys, ...
-msgctxt "keys_files"
-msgid "Push 5"
-msgstr "按下5"
-
-#. TRANSLATION: gaelco.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, naomi2.demul.keys, cave3rd.demul.keys, ...
-msgctxt "keys_files"
-msgid "Push 6"
-msgstr "按下6"
-
-#. TRANSLATION: gaelco.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, naomi2.demul.keys, cave3rd.demul.keys, ...
-msgctxt "keys_files"
-msgid "Push 7"
-msgstr "按下7"
-
-#. TRANSLATION: gaelco.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, naomi2.demul.keys, cave3rd.demul.keys, ...
-msgctxt "keys_files"
-msgid "Push 8"
-msgstr "按下8"
-
-#. TRANSLATION: gaelco.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, naomi2.demul.keys, cave3rd.demul.keys, ...
-msgctxt "keys_files"
-msgid "Digital Left"
-msgstr "十字鍵左"
-
-#. TRANSLATION: gaelco.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, naomi2.demul.keys, cave3rd.demul.keys, ...
-msgctxt "keys_files"
-msgid "Digital Right"
-msgstr "十字鍵右"
-
-#. TRANSLATION: gaelco.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, naomi2.demul.keys, cave3rd.demul.keys, ...
-msgctxt "keys_files"
-msgid "Digital Up"
-msgstr "十字鍵上"
-
-#. TRANSLATION: gaelco.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, naomi2.demul.keys, cave3rd.demul.keys, ...
-msgctxt "keys_files"
-msgid "Digital Down"
-msgstr "十字鍵下"
-
-#. TRANSLATION: gaelco.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, naomi2.demul.keys, cave3rd.demul.keys, ...
-msgctxt "keys_files"
-msgid "Analog 1 Left"
-msgstr "模擬搖桿1左"
-
-#. TRANSLATION: gaelco.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, naomi2.demul.keys, cave3rd.demul.keys, ...
-msgctxt "keys_files"
-msgid "Analog 1 Right"
-msgstr "模擬搖桿1右"
-
-#. TRANSLATION: gaelco.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, naomi2.demul.keys, cave3rd.demul.keys, ...
-msgctxt "keys_files"
-msgid "Analog 1 Up"
-msgstr "模擬搖桿1上"
-
-#. TRANSLATION: gaelco.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, naomi2.demul.keys, cave3rd.demul.keys, ...
-msgctxt "keys_files"
-msgid "Analog 1 Down"
-msgstr "模擬搖桿1下"
-
-#. TRANSLATION: gaelco.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, naomi2.demul.keys, cave3rd.demul.keys, ...
-msgctxt "keys_files"
-msgid "Analog 2 Left"
-msgstr "模擬搖桿2左"
-
-#. TRANSLATION: gaelco.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, naomi2.demul.keys, cave3rd.demul.keys, ...
-msgctxt "keys_files"
-msgid "Analog 2 Right"
-msgstr "模擬搖桿2右"
-
-#. TRANSLATION: gaelco.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, naomi2.demul.keys, cave3rd.demul.keys, ...
-msgctxt "keys_files"
-msgid "Analog 2 Up"
-msgstr "模擬搖桿2上"
-
-#. TRANSLATION: gaelco.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, naomi2.demul.keys, cave3rd.demul.keys, ...
-msgctxt "keys_files"
-msgid "Analog 2 Down"
-msgstr "模擬搖桿2下"
+msgid "Exit Dolphin"
+msgstr ""
 
 #. TRANSLATION: triforce.dolphin_triforce.keys
 msgctxt "keys_files"
@@ -14970,149 +14905,14 @@ msgctxt "keys_files"
 msgid "Save State Slot 1"
 msgstr "保存存檔1"
 
-#. TRANSLATION: amigacd32.fsuae.keys, amiga1200.fsuae.keys, amigacdtv.fsuae.keys, amiga500.fsuae.keys
+#. TRANSLATION: triforce.dolphin_triforce.keys, psx.duckstation.keys, psp.ppsspp.keys, mame.keys, scummvm.keys, ...
 msgctxt "keys_files"
-msgid "Virtual Keyboard"
-msgstr ""
+msgid "Screenshot"
+msgstr "載圖"
 
-#. TRANSLATION: amigacd32.fsuae.keys, amiga1200.fsuae.keys, amigacdtv.fsuae.keys, amiga500.fsuae.keys
+#. TRANSLATION: dos.dosbox-x.keys
 msgctxt "keys_files"
-msgid "Settings GUI"
-msgstr ""
-
-#. TRANSLATION: mame.keys
-msgctxt "keys_files"
-msgid "Exit Emulator"
-msgstr ""
-
-#. TRANSLATION: wiiu.keys
-msgctxt "keys_files"
-msgid "Display the controller screen"
-msgstr "顯示控制器屏幕"
-
-#. TRANSLATION: singe.hypseus-singe.keys, daphne.hypseus-singe.keys
-msgctxt "keys_files"
-msgid "Service menu"
-msgstr ""
-
-#. TRANSLATION: moonlight.moonlight.keys
-msgctxt "keys_files"
-msgid "Exit emulator using SDL"
-msgstr "使用SDL退出模擬器"
-
-#. TRANSLATION: psp.ppsspp.keys
-msgctxt "keys_files"
-msgid "Pause / Menu"
-msgstr ""
-
-#. TRANSLATION: vpinball.keys
-msgctxt "keys_files"
-msgid "Reset the table, sometimes required for PinMame"
-msgstr ""
-
-#. TRANSLATION: vpinball.keys
-msgctxt "keys_files"
-msgid "Start game"
-msgstr ""
-
-#. TRANSLATION: vpinball.keys
-msgctxt "keys_files"
-msgid "Insert coin"
-msgstr ""
-
-#. TRANSLATION: vpinball.keys
-msgctxt "keys_files"
-msgid "Nudge up"
-msgstr ""
-
-#. TRANSLATION: vpinball.keys
-msgctxt "keys_files"
-msgid "Nudge left"
-msgstr ""
-
-#. TRANSLATION: vpinball.keys
-msgctxt "keys_files"
-msgid "Nudge right"
-msgstr ""
-
-#. TRANSLATION: vpinball.keys
-msgctxt "keys_files"
-msgid "Pull plunger"
-msgstr ""
-
-#. TRANSLATION: vpinball.keys
-msgctxt "keys_files"
-msgid "Lockbar Fire Button"
-msgstr ""
-
-#. TRANSLATION: vpinball.keys
-msgctxt "keys_files"
-msgid "Buy extraball for a credit"
-msgstr ""
-
-#. TRANSLATION: vpinball.keys
-msgctxt "keys_files"
-msgid "Left flipper"
-msgstr ""
-
-#. TRANSLATION: vpinball.keys
-msgctxt "keys_files"
-msgid "Right flipper"
-msgstr ""
-
-#. TRANSLATION: vpinball.keys
-msgctxt "keys_files"
-msgid "Left magnasave"
-msgstr ""
-
-#. TRANSLATION: vpinball.keys
-msgctxt "keys_files"
-msgid "Right magnasave"
-msgstr ""
-
-#. TRANSLATION: 3ds.citra.keys
-msgctxt "keys_files"
-msgid "Move Stylet Pointer"
-msgstr ""
-
-#. TRANSLATION: 3ds.citra.keys
-msgctxt "keys_files"
-msgid "Restart Emulation"
-msgstr "重啟模擬器"
-
-#. TRANSLATION: 3ds.citra.keys
-msgctxt "keys_files"
-msgid "Continue/Pause emulation"
-msgstr "繼續/暫停模擬器"
-
-#. TRANSLATION: 3ds.citra.keys
-msgctxt "keys_files"
-msgid "Swap Screen"
-msgstr "對換屏幕"
-
-#. TRANSLATION: 3ds.citra.keys
-msgctxt "keys_files"
-msgid "Toggle Screen Layout"
-msgstr "切換屏幕佈局"
-
-#. TRANSLATION: 3ds.citra.keys
-msgctxt "keys_files"
-msgid "Toggle Speed Limit"
-msgstr "切換速度限制"
-
-#. TRANSLATION: 3ds.citra.keys
-msgctxt "keys_files"
-msgid "Swap screens"
-msgstr ""
-
-#. TRANSLATION: 3ds.citra.keys
-msgctxt "keys_files"
-msgid "Mouse Click"
-msgstr "鼠標點擊"
-
-#. TRANSLATION: wii.dolphin.keys
-msgctxt "keys_files"
-msgid "Exit Dolphin"
+msgid "Exit Dosbox-X"
 msgstr ""
 
 #. TRANSLATION: nds.drastic.keys
@@ -15220,6 +15020,16 @@ msgctxt "keys_files"
 msgid "Exit Drastic"
 msgstr "退出Drastic"
 
+#. TRANSLATION: nds.drastic.keys, psx.duckstation.keys, psp.ppsspp.keys, mame.keys
+msgctxt "keys_files"
+msgid "Save State"
+msgstr "存檔"
+
+#. TRANSLATION: nds.drastic.keys, psx.duckstation.keys, psp.ppsspp.keys, mame.keys
+msgctxt "keys_files"
+msgid "Load State"
+msgstr "讀檔"
+
 #. TRANSLATION: nds.drastic.keys
 msgctxt "keys_files"
 msgid "Swap Screens"
@@ -15235,35 +15045,195 @@ msgctxt "keys_files"
 msgid "FastForward"
 msgstr "快進"
 
-#. TRANSLATION: flatpak.keys
+#. TRANSLATION: psx.duckstation.keys
 msgctxt "keys_files"
-msgid "Exit running Flatpak"
+msgid "Exit Duckstation"
+msgstr "退出DuckStation"
+
+#. TRANSLATION: psx.duckstation.keys
+msgctxt "keys_files"
+msgid "Open DuckStation Quick Menu"
+msgstr "打開DuckStation快速菜單"
+
+#. TRANSLATION: psx.duckstation.keys
+msgctxt "keys_files"
+msgid "Restart Game"
+msgstr "重啟遊戲"
+
+#. TRANSLATION: psx.duckstation.keys, psp.ppsspp.keys, mame.keys
+msgctxt "keys_files"
+msgid "Slot -"
+msgstr "存檔位置-"
+
+#. TRANSLATION: psx.duckstation.keys, psp.ppsspp.keys, mame.keys
+msgctxt "keys_files"
+msgid "Slot +"
+msgstr "存檔位置+"
+
+#. TRANSLATION: psx.duckstation.keys, psp.ppsspp.keys
+msgctxt "keys_files"
+msgid "Rewind"
+msgstr "倒帶"
+
+#. TRANSLATION: psx.duckstation.keys
+msgctxt "keys_files"
+msgid "Next Disc (m3u)"
+msgstr "下一個光盤(m3u)"
+
+#. TRANSLATION: psx.duckstation.keys, psp.ppsspp.keys, mame.keys
+msgctxt "keys_files"
+msgid "Fast Forward"
+msgstr "快進"
+
+#. TRANSLATION: naomi2.flycast.keys, atomiswave.flycast.keys, dreamcast.flycast.keys, naomi.flycast.keys, dreamcast.redream.keys
+msgctxt "keys_files"
+msgid "Hide the bezel"
+msgstr "隱藏邊框"
+
+#. TRANSLATION: amiga1200.fsuae.keys, amiga500.fsuae.keys, amigacd32.fsuae.keys, amigacdtv.fsuae.keys
+msgctxt "keys_files"
+msgid "Virtual Keyboard"
 msgstr ""
 
-#. TRANSLATION: steam.keys
+#. TRANSLATION: amiga1200.fsuae.keys, amiga500.fsuae.keys, amigacd32.fsuae.keys, amigacdtv.fsuae.keys
 msgctxt "keys_files"
-msgid "Exit Steam"
+msgid "Settings GUI"
 msgstr ""
 
-#. TRANSLATION: sonic3-air.keys, dxx-rebirth.keys, etlegacy.keys, fallout2-ce.keys, sonic-mania.keys, ...
+#. TRANSLATION: moonlight.moonlight.keys
 msgctxt "keys_files"
-msgid "Exit game"
+msgid "Exit emulator using SDL"
+msgstr "使用SDL退出模擬器"
+
+#. TRANSLATION: psp.ppsspp.keys
+msgctxt "keys_files"
+msgid "Pause / Menu"
 msgstr ""
 
-#. TRANSLATION: raze.keys, gzdoom.keys, eduke32.keys
+#. TRANSLATION: mame.keys
 msgctxt "keys_files"
-msgid "quicksave"
-msgstr "快速存檔"
+msgid "Exit Emulator"
+msgstr ""
 
-#. TRANSLATION: raze.keys, gzdoom.keys, eduke32.keys
+#. TRANSLATION: scummvm.keys
 msgctxt "keys_files"
-msgid "quickload"
-msgstr "快速讀檔"
+msgid "Menu"
+msgstr "菜單"
 
-#. TRANSLATION: raze.keys, gzdoom.keys, eduke32.keys
+#. TRANSLATION: scummvm.keys
 msgctxt "keys_files"
-msgid "screenshot"
-msgstr "截圖"
+msgid "Graphics filtering on/off"
+msgstr "打開/關閉圖像過濾"
+
+#. TRANSLATION: vpinball.keys
+msgctxt "keys_files"
+msgid "Reset the table, sometimes required for PinMame"
+msgstr ""
+
+#. TRANSLATION: vpinball.keys
+msgctxt "keys_files"
+msgid "Start game"
+msgstr ""
+
+#. TRANSLATION: vpinball.keys
+msgctxt "keys_files"
+msgid "Insert coin"
+msgstr ""
+
+#. TRANSLATION: vpinball.keys
+msgctxt "keys_files"
+msgid "Nudge up"
+msgstr ""
+
+#. TRANSLATION: vpinball.keys
+msgctxt "keys_files"
+msgid "Nudge left"
+msgstr ""
+
+#. TRANSLATION: vpinball.keys
+msgctxt "keys_files"
+msgid "Nudge right"
+msgstr ""
+
+#. TRANSLATION: vpinball.keys
+msgctxt "keys_files"
+msgid "Pull plunger"
+msgstr ""
+
+#. TRANSLATION: vpinball.keys
+msgctxt "keys_files"
+msgid "Lockbar Fire Button"
+msgstr ""
+
+#. TRANSLATION: vpinball.keys
+msgctxt "keys_files"
+msgid "Buy extraball for a credit"
+msgstr ""
+
+#. TRANSLATION: vpinball.keys
+msgctxt "keys_files"
+msgid "Left flipper"
+msgstr ""
+
+#. TRANSLATION: vpinball.keys
+msgctxt "keys_files"
+msgid "Right flipper"
+msgstr ""
+
+#. TRANSLATION: vpinball.keys
+msgctxt "keys_files"
+msgid "Left magnasave"
+msgstr ""
+
+#. TRANSLATION: vpinball.keys
+msgctxt "keys_files"
+msgid "Right magnasave"
+msgstr ""
+
+#. TRANSLATION: 3ds.citra.keys
+msgctxt "keys_files"
+msgid "Move Stylet Pointer"
+msgstr ""
+
+#. TRANSLATION: 3ds.citra.keys
+msgctxt "keys_files"
+msgid "Restart Emulation"
+msgstr "重啟模擬器"
+
+#. TRANSLATION: 3ds.citra.keys
+msgctxt "keys_files"
+msgid "Continue/Pause emulation"
+msgstr "繼續/暫停模擬器"
+
+#. TRANSLATION: 3ds.citra.keys
+msgctxt "keys_files"
+msgid "Swap Screen"
+msgstr "對換屏幕"
+
+#. TRANSLATION: 3ds.citra.keys
+msgctxt "keys_files"
+msgid "Toggle Screen Layout"
+msgstr "切換屏幕佈局"
+
+#. TRANSLATION: 3ds.citra.keys
+msgctxt "keys_files"
+msgid "Toggle Speed Limit"
+msgstr "切換速度限制"
+
+#. TRANSLATION: 3ds.citra.keys
+msgctxt "keys_files"
+msgid "Swap screens"
+msgstr ""
+
+#. TRANSLATION: 3ds.citra.keys
+msgctxt "keys_files"
+msgid "Mouse Click"
+msgstr "鼠標點擊"
+
+#. TRANSLATION: daphne.hypseus-singe.keys, singe.hypseus-singe.keys
+msgctxt "keys_files"
+msgid "Service menu"
+msgstr ""
 
 #. TRANSLATION: corsixth.keys
 msgctxt "keys_files"
@@ -15310,12 +15280,12 @@ msgctxt "keys_files"
 msgid "Select"
 msgstr ""
 
-#. TRANSLATION: corsixth.keys, fallout2-ce.keys, iortcw.keys, fallout1-ce.keys
+#. TRANSLATION: corsixth.keys, fallout1-ce.keys, fallout2-ce.keys, iortcw.keys
 msgctxt "keys_files"
 msgid "Quick save"
 msgstr ""
 
-#. TRANSLATION: corsixth.keys, fallout2-ce.keys, iortcw.keys, fallout1-ce.keys
+#. TRANSLATION: corsixth.keys, fallout1-ce.keys, fallout2-ce.keys, iortcw.keys
 msgctxt "keys_files"
 msgid "Quick load"
 msgstr ""
@@ -15415,6 +15385,36 @@ msgctxt "keys_files"
 msgid "Manage Staff"
 msgstr ""
 
+#. TRANSLATION: dxx-rebirth.keys, etlegacy.keys, fallout1-ce.keys, fallout2-ce.keys, sonic-mania.keys, ...
+msgctxt "keys_files"
+msgid "Exit game"
+msgstr ""
+
+#. TRANSLATION: eduke32.keys, gzdoom.keys, raze.keys
+msgctxt "keys_files"
+msgid "quicksave"
+msgstr "快速存檔"
+
+#. TRANSLATION: eduke32.keys, gzdoom.keys, raze.keys
+msgctxt "keys_files"
+msgid "quickload"
+msgstr "快速讀檔"
+
+#. TRANSLATION: eduke32.keys, gzdoom.keys, raze.keys
+msgctxt "keys_files"
+msgid "screenshot"
+msgstr "截圖"
+
+#. TRANSLATION: fallout1-ce.keys, fallout2-ce.keys
+msgctxt "keys_files"
+msgid "Bring up menu"
+msgstr ""
+
+#. TRANSLATION: iortcw.keys, theforceengine.keys
+msgctxt "keys_files"
+msgid "Skip cutscene"
+msgstr ""
+
 #. TRANSLATION: theforceengine.keys
 msgctxt "keys_files"
 msgid "Quick Load"
@@ -15425,14 +15425,14 @@ msgctxt "keys_files"
 msgid "Quick Save"
 msgstr ""
 
-#. TRANSLATION: theforceengine.keys, iortcw.keys
+#. TRANSLATION: flatpak.keys
 msgctxt "keys_files"
-msgid "Skip cutscene"
+msgid "Exit running Flatpak"
 msgstr ""
 
-#. TRANSLATION: fallout2-ce.keys, fallout1-ce.keys
+#. TRANSLATION: steam.keys
 msgctxt "keys_files"
-msgid "Bring up menu"
+msgid "Exit Steam"
 msgstr ""
 
 #~ msgctxt "game_options"
