@@ -19,6 +19,15 @@ class LibretroGenerator(Generator):
     def supportsInternalBezels(self):
         return True
 
+    def getHotkeysContext(self):
+        # f12 for coin : set in libretroMameConfig.py, others in libretroControllers.py
+        return {
+            "name": "retroarch",
+            "keys": { "exit": ["KEY_LEFTSHIFT", "KEY_ESC"], "menu": ["KEY_LEFTSHIFT", "KEY_F1"], "coin": "KEY_F12",
+                      "save_state": ["KEY_LEFTSHIFT", "KEY_F3"], "restore_state": ["KEY_LEFTSHIFT", "KEY_F4"], "next_slot": ["KEY_LEFTSHIFT", "KEY_F6"], "previous_slot": ["KEY_LEFTSHIFT", "KEY_F5"]
+                     }
+        }
+
     # Main entry of the module
     # Configure retroarch and return a command
     def generate(self, system, rom, playersControllers, metadata, guns, wheels, gameResolution):

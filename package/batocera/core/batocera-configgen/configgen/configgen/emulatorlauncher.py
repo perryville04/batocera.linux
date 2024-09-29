@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 
 import os
+from pathlib import Path
+
 profiler = None
 
 # 1) touch /var/run/emulatorlauncher.perf
@@ -20,10 +22,11 @@ import signal
 import time
 from sys import exit
 import subprocess
+import json
 
-from . import batoceraFiles
 from . import controllersConfig as controllers
 from . import GeneratorImporter
+from .batoceraPaths import SAVES
 from .Emulator import Emulator
 from .utils import bezels as bezelsUtil
 from .utils import videoMode
@@ -206,9 +209,9 @@ def start_rom(args, maxnbplayers, rom, romConfiguration):
         eslog.debug("resolution: {}x{}".format(str(gameResolution["width"]), str(gameResolution["height"])))
 
         # savedir: create the save directory if not already done
-        dirname = os.path.join(batoceraFiles.savesDir, system.name)
-        if not os.path.exists(dirname):
-            os.makedirs(dirname)
+        dirname = SAVES / system.name
+        if not dirname.exists():
+            dirname.mkdir(parents=True)
 
         # core
         effectiveCore = ""
@@ -259,6 +262,12 @@ def start_rom(args, maxnbplayers, rom, romConfiguration):
         try:
             from .Evmapy import Evmapy
             Evmapy.start(systemName, system.config['emulator'], effectiveCore, effectiveRomConfiguration, playersControllers, guns)
+
+            # hotkeygen context
+            hkc = generator.getHotkeysContext()
+            eslog.debug("hotkeygen: updating context to {}".format(hkc["name"]))
+            subprocess.call(["hotkeygen", "--new-context", hkc["name"], json.dumps(hkc["keys"])])
+
             # change directory if wanted
             executionDirectory = generator.executionDirectory(system.config, effectiveRom)
             if executionDirectory is not None:
@@ -284,6 +293,10 @@ def start_rom(args, maxnbplayers, rom, romConfiguration):
             if profiler:
                 profiler.enable()
         finally:
+            # reset hotkeygen context
+            eslog.debug("hotkeygen: resetting to default context")
+            subprocess.call(["hotkeygen", "--default-context"])
+
             Evmapy.stop()
 
         # run a script after emulator shuts down
@@ -346,7 +359,6 @@ def getHudBezel(system, generator, rom, gameResolution, bordersSize, bordersRati
     # bottom, top, left and right must not cover too much the image to be considered as compatible
     if os.path.exists(overlay_info_file):
         try:
-            import json
             infos = json.load(open(overlay_info_file))
         except:
             eslog.warning(f"unable to read {overlay_info_file}")
