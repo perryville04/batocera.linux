@@ -84,6 +84,7 @@
 - GroovyMAME to 0.268
 - Ikemen to August 1st 2024 build
 - Kodi to 21.1
+- Mupen64 core & plugins to v2.6.0
 - PCSX2 to v2.1.100
 - Redream to 1.5.0-1133-g03c2ae9
 - RPCS3 to 0.0.33 (alpha on Aug 31, 2024)
@@ -91,7 +92,7 @@
 - Syncthing to 1.27.10
 - The Force Engine to Aug 19, 2024 build
 - Vita3k to August 25, 2024 build
-- Xemu to v0.7.131
+- Xemu to v0.7.130
 - Xenia to v1.0.2817
 - Xenia Canary to August 31, 2024 build
 ### System
@@ -102,7 +103,7 @@
 - Ayn Platform driver to Jul 17, 2024 build
 - MangoHud to Jun 15, 2024 build
 - SDL2 to 2.30.6
-- DXVK to 2.4
+- DXVK to 2.4.1
 - DXVK NVAPI to v0.7.1
 - VKD3D Proton to 2.13
 - Linux Firmware to 20240811
@@ -112,15 +113,17 @@
 - Chromebook Linux Audio to 31st of July
 - FAudio to 24.08
 - FDK-AAC to 2.0.3
-- Intel Media Driver to 24.2.5
-- Sound Open Firmware to 2024.06
+- Intel Media Driver to 24.3.4
+- Intel Graphics Memory Management Library to 22.5.2
+- Sound Open Firmware to 2024.09
 - LibVA to 2.22.0
 - WF-Recorder to 14th of August build
 - Switchres to 2.2.1
-- Mesa3D to 24.2.1
+- Mesa3D to 24.2.3
 - Buildroot to the 2024.05.2 release base
-- GStreamer codecs to 1.24.7
-- shim-signed ia32 EFI bootloader to 1.44~1+deb12u1+15.8-1~deb12u1
+- GStreamer codecs to 1.24.8
+- Shim signed IA32 EFI bootloader to 1.44~1+deb12u1+15.8-1~deb12u1
+- FFMPEG to 7.1
 
 # 2024/08/11 - batocera.linux 40 - Swallowtail
 ### Special Notes
